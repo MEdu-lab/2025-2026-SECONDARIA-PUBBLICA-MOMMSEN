@@ -1,5 +1,13 @@
-Per il quarto anno consecutivo vi proponiamo il laboratorio di musica d'insieme per l'infanzia, un corso extracurriculare pomeridiano aperto alle bambine e ai bambini che frequentano la {{ progetto.sottotitolo }}. Ogni anno il laboratorio è stato guidato da musicisti formati nella pratica della musica contemporanea, elettroacustica e popolare, che hanno condiviso con i bambini un'atmosfera leggera ma densa di attività.
-Nella progettazione di esperienze di apprendimento significative cerchiamo l'innesco della scintilla dell'interesse dei bambini e puntiamo a realizzare alcune istanze della musica di ricerca del XX e XXI secolo su cui lavoriamo quotidianamente, in collaborazione con alcuni importanti Conservatori italiani.
+Accedere alla scuola secondaria significa accrescere la consapevolezza di partecipare ad
+una comunità con le sue regole, i suoi doveri, ma anche i suoi diritti. In particolare, la firma
+del Patto educativo di corresponsabilità dovrebbe ratificare la partecipazione a questa
+comunità, che potrebbe accogliere i nuovi arrivati anche preparandosi ad un evento. Il
+contenuto dell’evento potrebbe essere focalizzato sull’educazione civica e potrebbe
+consistere nello strutturare 
+di musica popolare: rock, pop, hip hop, elettronica. In questo
+modulo di 10 incontri simuliamo la preparazione di un concerto che veicoli i valori della
+costituzione, partendo da alcuni esempi di “buone pratiche” scolastiche e progetti già
+effettuati.
 
 \vspace{.7cm}
 
