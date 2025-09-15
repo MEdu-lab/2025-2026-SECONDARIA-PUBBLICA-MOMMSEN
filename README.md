@@ -13,8 +13,8 @@ header-includes:
   hfill\\begin{minipage}{0.3\\textwidth}\n        \\centering\n        \\textbf{Marco\
   \ Di Gasbarro}\\\\\\textit{coordinatore}\\\\\\textit{dottorando in Composizione\
   \ e Performance Musicale, Conservatorio di Ferrara}\n      \\end{minipage}}"
-subtitle: Scuola Primaria *G. Verdi* - 2025/2026
-title: Titolo del progetto
+subtitle: Scuola Secondaria di I grado *Via T. Mommsen, 20* | sede ex Carroll - 2025/2026
+title: Play Your Rights
 ---
 
 Con il laboratorio {progetto.titolo}, modulo che ha visto un perfezionamento in itinere con uno storico pluriennale in altre scuole pubbliche della capitale, vogliamo catapultare gli studenti nel mondo della musica d'insieme.
