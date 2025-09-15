@@ -1,4 +1,4 @@
-## METODO, FINALITÀ E OBIETTIVI
+## FINALITÀ E OBIETTIVI
 
 Le metodologie da noi applicate, inspirandosi ad alcuni capisaldi della didattica musicale del 1900,
 
