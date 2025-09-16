@@ -10,7 +10,7 @@ on:
       - 'config.yml'
       - '.github/scripts/**'
       - '.github/workflows/**'
-      - '**/*.sty'
+      - 'styles/**'
       - '*.tex'
       - 'customPandoc.latex'
       
