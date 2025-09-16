@@ -28,8 +28,7 @@ effettuati.
 
 \vspace{.7cm}
 
->*il ritmo si può solo liberare, sprigionare. Ritmo non è un'entità astratta, ritmo è la vita stessa. Ritmo agisce e provoca, è la forza che unisce linguaggio, musica e movimento.* (Carl Orff)
-
+>*La musica arricchisce l’educazione dei nostri bambini, aiutandoli a creare connessioni e ad ampliare la profondità con cui pensano e sentono. Se vogliamo sperare in una società di persone formate culturalmente, la musica deve essere una parte vitale dell’educazione dei nostri figli.* (Yo-Yo Ma)
 
 
 Il progetto intende utilizzare la musica come strumento educativo e inclusivo, capace di generare apprendimento significativo e di sviluppare competenze chiave europee attraverso un percorso creativo basato su testi tratti dalla Costituzione della Repubblica Italiana. La pratica musicale collettiva — articolata in laboratori di composizione e performance nei linguaggi rock, pop, rap ed elettronico — diventa un mezzo di espressione, collaborazione e cittadinanza attiva.
